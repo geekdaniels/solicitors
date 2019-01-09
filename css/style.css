@@ -1,0 +1,59 @@
+body{
+ font-family: 'Poppins', sans-serif !important;
+}
+
+.text-primary{
+ color: #666666 !important;
+}
+
+.text-secondary{
+ color: #575d6b;
+}
+
+.font-small{
+ font-size: 14px;
+}
+
+.nav-link{
+ font-size: 14px !important;
+ font-weight: normal;
+ font-family: 'Poppins', sans-serif !important;
+}
+
+.bg-default{
+ background-color: #ebebeb !important;
+ height: 80vh !important;
+}
+
+.bg-default-sub{
+ background-color: #ebebeb !important;
+}
+
+.bg-secondary{
+ background-color: #484C58 !important;
+}
+
+.bg-primary{
+ background-color: #575D6B !important;
+}
+
+.law_background{
+ background-image: url(../img/pexels-photo-534204.png);
+ background-position: right;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
+.footer{
+ background-color: #e9e9e9;
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+ .mob_float {
+  float: left !important;
+ }
+ .mob_list {
+  display: block !important;
+ }
+}
