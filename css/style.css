@@ -19,7 +19,9 @@ body{
  font-weight: normal;
  font-family: 'Poppins', sans-serif !important;
 }
-
+.red{
+ color: red;
+}
 .bg-default{
  background-color: #ebebeb !important;
  height: 80vh !important;
